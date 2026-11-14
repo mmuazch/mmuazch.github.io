@@ -96,7 +96,7 @@ p{margin:0 0 1em}
 #hero3d.ready canvas{opacity:1}
 #hero3d .fallback{position:absolute;inset:0;display:none}
 #hero3d.no-webgl .fallback{display:block}
-.hero-card{position:absolute;z-index:2;background:rgba(255,255,255,.09);border:1px solid rgba(255,255,255,.16);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-radius:var(--r-md);padding:.9rem 1.1rem;font-size:.86rem;color:#DDEDE5;max-width:240px;box-shadow:0 20px 40px -20px rgba(0,0,0,.5)}
+.hero-card{position:absolute;z-index:2;background:rgba(7,31,23,.72);border:1px solid rgba(255,255,255,.16);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-radius:var(--r-md);padding:.9rem 1.1rem;font-size:.86rem;color:#DDEDE5;max-width:240px;box-shadow:0 20px 40px -20px rgba(0,0,0,.5)}
 .hero-card b{display:block;font-family:var(--display);font-weight:600;font-size:1.02rem;color:#fff}
 .hero-card.a{right:2%;bottom:10%}.hero-card.b{left:0;top:12%}
 .hero-card .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--mint);margin-right:.4rem;box-shadow:0 0 0 4px rgba(71,184,142,.25)}
